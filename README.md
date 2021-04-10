@@ -9,10 +9,14 @@ brew cask install iterm2
 
 ## 第二步：下载仓库
 
-本仓库包含字体，字库，主题仓库。
+**本文的github仓库地址为：** [项目链接](https://github.com/sexjun/on-my-zsh-beautification)
+
+
+- 本仓库包含字体，字库，主题仓库，高亮显示等全部资源
+- 直接下载可运行如下指令。
 
 ```git
-
+git clone https://github.com/sexjun/on-my-zsh-beautification.git
 ```
 
 
@@ -56,6 +60,10 @@ echo "source ${(q-)PWD}/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh" >> 
 
 ### 3.4 配置提醒
 
+待更新
+
+到这里结束，后面是笔记可忽略。
+---
 
 
 @[toc]
